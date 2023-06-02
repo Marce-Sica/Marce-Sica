@@ -2,7 +2,7 @@
 
 - Full Stack Developer
 
-### Tengo conocimientos sobre:
+## Tengo conocimientos sobre:
 
 ### Frontend Development
 
