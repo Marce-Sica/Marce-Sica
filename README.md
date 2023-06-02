@@ -22,6 +22,12 @@
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marce-Sica&show_icons=true&theme=algolia)
 
+````bash
+> linkedin: Marcelo Sica
+> instagram: marce_sica
+> github: Marce-Sica
+> email: marcelosica10@gmail.com 
+````
 <!--
 **Marce-Sica/Marce-Sica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
