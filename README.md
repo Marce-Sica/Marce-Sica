@@ -1,17 +1,17 @@
-### Hola a todos! Soy Marce👋😄💻
+# Hola a todos! Soy Marce👋😄💻
 
 - Full Stack Developer
 
-#### Tengo conocimientos sobre:
+### Tengo conocimientos sobre:
 
-##### Frontend Development
+### Frontend Development
 
 - HTML 
 - CSS
 - JavaScript
 - React
 
-##### Backend Development
+### Backend Development
 
 - Python
 - Flask
