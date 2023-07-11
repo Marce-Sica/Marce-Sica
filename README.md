@@ -10,13 +10,13 @@
 - CSS
 - JavaScript
 - React
+- Node.js
 
 ### Backend Development
 
 - Python
 - Flask
-- Django
-- MySQL
+- SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marce-Sica&layout=donut&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br>
