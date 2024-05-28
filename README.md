@@ -1,5 +1,6 @@
 # Hola a todos! Soy Marce👋😄💻
 
+- Data Engineer
 - Full Stack Developer
 
 ## Tengo conocimientos sobre:
@@ -14,9 +15,13 @@
 
 ### Backend Development
 
-- Python
+- Python (Spark, Pandas)
 - Flask
 - SQL
+
+### Visualization
+
+- Power BI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marce-Sica&layout=donut&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br>
